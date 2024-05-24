@@ -1,1 +1,1 @@
-Proyecto básico - maquetación layout de una tienda, usando HTML y CSS 
+Proyecto básico maquetación HTML y CSS - layout de una Tienda
